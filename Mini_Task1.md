@@ -9,5 +9,9 @@ Description: Programming a Raspberry Pi Pico device and a touch display to work 
 Domains: Raspberry Pi, Configuring Touch displays  
 ## Project 3 ##  
 ### Motion activated Camera with Realtime-Notification  
-Description: Using image sensors to form a video feed that will be turned on by reasonable amount of motion  
+Description: Using image sensors to form a video feed that will be turned on by reasonable amount of motion.     
 Domains: Sensors, Microcontrollers, Android App Development, IoT
+## Project 4 ##
+### Cheap Laser based People Counter
+Description: Using ToF sensors that use laser beams(harmless) to calculate number of people entering and leaving a certain area and displaying it on any device connected to the internet.  
+Domains: Microcontrollers, ToF sensors, IoT  
