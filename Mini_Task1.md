@@ -30,6 +30,22 @@ Domains : Microcontrollers, Sensors, Computer Vision, IoT
 ### Polar Drawing Device
 Description: To illustrating an image by converting it into polar curves and, sketching it using movable pen handle which has variable r and rotating paper with angular position phi.  
 Domains: Microcontroller, Motors, Rectangular to Polar form conversion  
-![Testgif2](https://user-images.githubusercontent.com/84671311/121186442-ba31db80-c884-11eb-8161-0cffb52597cc.gif)
+![Testgif2](https://user-images.githubusercontent.com/84671311/121186442-ba31db80-c884-11eb-8161-0cffb52597cc.gif)  
+## Project 8
+### Robot Hand synchronised to our Hand using EMG signals
+Description: Control of the robotic hand is based on data received by uECG sensors placed around the hand. They record the bio-signals( electrical activity of different muscle groups) and we can enhance the data and send it to the Robotic hand for it to respond.  
+Domains: Robotics, Microcontrollers, ECG sensors  
+![Testgif3](https://user-images.githubusercontent.com/84671311/121216853-e6f2ec80-c89e-11eb-95fb-0dbbc9cfac8a.gif)
+## Project 9
+### Smart Glasses
+Description: Creating Cheap smart glasses using transparent OLED Displays(https://www.crystalfontz.com/product/cfal12856a00151b-128x56-transparent-oled-screen)  
+Domains: Microcontrollers, PCB Designing, OLED Displays configuration  
+![image](https://user-images.githubusercontent.com/84671311/121223796-84511f00-c8a5-11eb-8f1d-47309c5f63d2.png)
+## Project 10
+### BP Machine
+Description: Measuring systolic and diastolic pressures along with the pulse rate
+Domains: Signal processing
+
+
 
 
