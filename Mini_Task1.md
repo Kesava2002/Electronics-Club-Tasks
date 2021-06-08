@@ -7,6 +7,7 @@ Domains: Communication, Microcontrollers, Telegram Bots
 ### Touch based Programmable Keyboard based on Raspberry Pi Pico
 Description: Programming a Raspberry Pi Pico device and a touch display to work as a keyboard.  
 Domains: Raspberry Pi, Configuring Touch displays  
+![image](https://user-images.githubusercontent.com/84671311/121175039-3eca2d00-c878-11eb-8c74-2bde324fac0b.png)  
 ## Project 3 ##  
 ### Motion activated Camera with Realtime-Notification  
 Description: Using image sensors to form a video feed that will be turned on by reasonable amount of motion.     
@@ -20,9 +21,10 @@ Domains: Microcontrollers, ToF sensors, IoT
 Description: Setting up Raspberry Pi device as an accesspoint through which all of traffic is routed through the Tor
 Domains: Tor, Raspberry Pi
 ## Project 6
-### Human Following Robot extended with Image sensors to implement Obstracle Detection
-Description: Using IR sensors, UV sensors to make a robot move in the the direction in which the robot is pointed
-Domains : Microcontrollers, Sensors, Computer Vision  
-![Testgif](https://user-images.githubusercontent.com/84671311/121174773-e7c45800-c877-11eb-8ed0-0f38b1a6d0d6.gif)
+### "Follow Me" Robot extended with Image sensors to implement Obstracle Detection
+Description: To design a robot to move to the location of a mobile connected to the robot via Bluetooth using GPS, at the same time avoiding obstacles on the way
+Domains : Microcontrollers, Sensors, Computer Vision, IoT  
+![Testgif](https://user-images.githubusercontent.com/84671311/121174773-e7c45800-c877-11eb-8ed0-0f38b1a6d0d6.gif)  
+![Testgif1](https://user-images.githubusercontent.com/84671311/121176478-e2680d00-c879-11eb-80ff-7f0ec76bf14a.gif)
 ## Project 7
-### 
+###  
