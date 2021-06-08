@@ -28,7 +28,7 @@ Domains : Microcontrollers, Sensors, Computer Vision, IoT
 ![Testgif1](https://user-images.githubusercontent.com/84671311/121176478-e2680d00-c879-11eb-80ff-7f0ec76bf14a.gif)
 ## Project 7
 ### Polar Drawing Device
-Description: To illustrating an image by converting it into polar curves and, sketching it using movable pen handle which has variable r and rotating paper with angular position phi.
+Description: To illustrating an image by converting it into polar curves and, sketching it using movable pen handle which has variable r and rotating paper with angular position phi.  
 Domains: Microcontroller, Motors, Rectangular to Polar form conversion  
 ![Testgif2](https://user-images.githubusercontent.com/84671311/121186442-ba31db80-c884-11eb-8161-0cffb52597cc.gif)
 
