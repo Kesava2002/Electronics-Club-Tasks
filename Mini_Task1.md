@@ -43,7 +43,7 @@ Domains: Microcontrollers, PCB Designing, OLED Displays configuration
 ![image](https://user-images.githubusercontent.com/84671311/121223796-84511f00-c8a5-11eb-8f1d-47309c5f63d2.png)
 ## Project 10
 ### BP Machine
-Description: Measuring systolic and diastolic pressures along with the pulse rate
+Description: Measuring systolic and diastolic pressures along with the pulse rate.  
 Domains: Signal processing
 
 
