@@ -44,7 +44,13 @@ Domains: Microcontrollers, PCB Designing, OLED Displays configuration
 ## Project 10
 ### BP Machine
 Description: Measuring systolic and diastolic pressures along with the pulse rate.  
-Domains: Signal processing
+Domains: Signal processing  
+## Project 11
+### Smart Mirror with Photograph and Face Recognition capabailities
+Description: Using a see though mirror to implement a Smart mirror using Raspberry Pi and a big display or many smaller displays and Face recognision using OpenCV and deep learning algorithms.  
+Domains: Raspberry Pi, Deep Learning  
+![image](https://user-images.githubusercontent.com/84671311/121282706-96f44400-c8f7-11eb-87db-6c9728d16612.png)
+![image](https://user-images.githubusercontent.com/84671311/121282825-c60ab580-c8f7-11eb-81bc-c07cfc30411d.png)
 
 
 
