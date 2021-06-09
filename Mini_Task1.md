@@ -51,6 +51,25 @@ Description: Using a see though mirror to implement a Smart mirror using Raspber
 Domains: Raspberry Pi, Deep Learning  
 ![image](https://user-images.githubusercontent.com/84671311/121282706-96f44400-c8f7-11eb-87db-6c9728d16612.png)
 ![image](https://user-images.githubusercontent.com/84671311/121282825-c60ab580-c8f7-11eb-81bc-c07cfc30411d.png)
+## Project 12
+### Portable and Foldable Limited Display
+Description: Creating a limited Display which can be used for timers, scorecards etc using WS2812B strips connected to a STM32 Microcontrollers.  
+Domain: Microcontrollers, LEDs  
+![image](https://user-images.githubusercontent.com/84671311/121302813-df235e80-c917-11eb-80cb-bd9df9189483.png)
+## Project 13
+### Cheap and reasonably Accurate Ground Penetrating Radar
+Desription: Using VHF/UHF HT radio connected to antenna and Raspberry Pi to form a relatively cheaper radar system to find out underground hazards.
+Domains: Radio Waves, Signal Processing, Raspberry Pi  
+## Project 14
+### Air Quality Monitor along with Temperature and Humidity Notifier
+Description: Display live air quality, temperature and humidity values along with indication of proper levels.  
+Domains : Sensors, Microcontrollers.  
+## Project 15
+### Self Alerting Mail-box
+Description: To send a notification to mobile when any mail is received, using IoT
+Domains : IoT, Microcontrollers
+
+
 
 
 
