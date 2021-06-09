@@ -9,6 +9,7 @@ Extra Addition: We can also add a voice input/output to the system to implement 
 
 # Planning
 Pipeline for this project can be divided into two subsections:
+
 ## Hardware
 Here we can figure out dimensions of mirror, display and exterior design. Camera placement must also be determined.  
 
@@ -16,6 +17,22 @@ Here we can figure out dimensions of mirror, display and exterior design. Camera
 
 ## Software
 Here there are two parts:
+
 ### User interface
-We need to write a python program to implement the functions of the smart mirror.  
-_Note the background screen colour while the program is running should be adjusted so that the mirror looks uniform_
+We need to write a python program to implement the functions of the smart mirror.     
+Note: The background screen colour while the program is running should be adjusted so that the mirror looks uniform.
+
+### Face Recognition
+For the face regnition part, we can use the OpenCV library to identify the face part of the picture. Then we need to create neural network to identify the face from the given set of baseline-photos. The user can provide theses photos using an USB storage device with proper organisation of photos. This program must provide the user-interface program with a name or it should give an error message.  
+Extra Addition: We need to implement an Android/iOS application for the user to add photos and to transfer them to Raspberry Pi device using Bluetooth connection.
+## Parts of Pipleine
+### Part                                                        Feasibility                                     Means to improve  
+Python program for user-interface                            Simple                                          -  
+Python program for face recognition and identification       Hard to implement                               Nothing I could find for the moment  
+Setting up Raspberry Pi, camera, display                     Simple                                          Cost reduction analysis can be done here  
+Designing mirror                                             Simple                                          Cost reduction, implementing  
+
+# Prototyping phase
+We can start by obtaining camera, Raspberry Pi device and the display and work on setting up the connections. Once proper functioning is ensured, we can start installing all necessary libraries for proper working of the programs. Then start running the program in Raspberry Pi. Then mirror structure can be constructed and all components can be added.  
+
+
