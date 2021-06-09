@@ -53,7 +53,7 @@ Domains: Raspberry Pi, Deep Learning
 ![image](https://user-images.githubusercontent.com/84671311/121282825-c60ab580-c8f7-11eb-81bc-c07cfc30411d.png)
 ## Project 12
 ### Portable and Foldable Limited Display
-Description: Creating a limited Display which can be used for timers, scorecards etc using WS2812B strips connected to a STM32 Microcontrollers.  
+Description: Creating a limited Display which can be used for timers, scorecards etc using WS2812B strips connected to a STM32/ESP8266 Microcontroller.  
 Domain: Microcontrollers, LEDs  
 ![image](https://user-images.githubusercontent.com/84671311/121302813-df235e80-c917-11eb-80cb-bd9df9189483.png)
 ## Project 13
