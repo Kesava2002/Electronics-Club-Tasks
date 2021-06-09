@@ -32,12 +32,12 @@ For the face regnition part, we can use the OpenCV library to identify the face 
 Extra Addition: We need to implement an Android/iOS application for the user to add photos and to transfer them to Raspberry Pi device using Bluetooth connection.  
 
 ### Parts of Pipleine
-#### | Part                                                       | Feasibility                                     | Means to improve                          | ##
-     |------------------------------------------------------------|-------------------------------------------------|-------------------------------------------|
-| Python program for user-interface                            | Simple                                          | -  
-| Python program for face recognition and identification       | Hard to implement                               | Nothing I could find for the moment      |       
-| Setting up Raspberry Pi, camera, display                     | Simple                                          | Cost reduction analysis can be done here | 
-| Designing mirror                                             | Simple                                          | Cost reduction, implementing             |     
+| Part                                                       | Feasibility                                     | Means to improve                         |
+|------------------------------------------------------------|-------------------------------------------------|------------------------------------------|
+| Python program for user-interface                          | Simple                                          | -                                        | 
+| Python program for face recognition and identification     | Hard to implement                               | Nothing I could find for the moment      |       
+| Setting up Raspberry Pi, camera, display                   | Simple                                          | Cost reduction analysis can be done here | 
+| Designing mirror                                           | Simple                                          | Cost reduction, implementing             |     
 
 ## Prototyping phase
 We can start by obtaining camera, Raspberry Pi device and the display and work on setting up the connections. Once proper functioning is ensured, we can start installing all necessary libraries for proper working of the programs. Then start running the program in Raspberry Pi. Then mirror structure can be constructed and all components can be added.  
