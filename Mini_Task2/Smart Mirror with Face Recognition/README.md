@@ -32,7 +32,7 @@ For the face regnition part, we can use the OpenCV library to identify the face 
 Extra Addition: We need to implement an Android/iOS application for the user to add photos and to transfer them to Raspberry Pi device using Bluetooth connection.  
 
 ### Parts of Pipleine
-#### | Part                                                       | Feasibility                                     | Means to improve                          |
+#### | Part                                                       | Feasibility                                     | Means to improve                          | ##
      |------------------------------------------------------------|-------------------------------------------------|-------------------------------------------|
 | Python program for user-interface                            | Simple                                          | -  
 | Python program for face recognition and identification       | Hard to implement                               | Nothing I could find for the moment      |       
