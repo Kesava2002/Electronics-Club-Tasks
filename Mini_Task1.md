@@ -18,7 +18,7 @@ Description: Using ToF sensors that use laser beams(harmless) to calculate numbe
 Domains: Microcontrollers, ToF sensors, IoT  
 ## Project 5
 ### Raspberry Pi Tor Router
-Description: Setting up Raspberry Pi device as an accesspoint through which all of traffic is routed through the Tor
+Description: Setting up Raspberry Pi device as an accesspoint through which all of traffic is routed through the Tor.  
 Domains: Tor, Raspberry Pi
 ## Project 6
 ### "Follow Me" Robot extended with Image sensors to implement Obstracle Detection
