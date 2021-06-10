@@ -27,7 +27,9 @@ We need to write a python program to implement the functions of the smart mirror
 Note: The background screen colour while the program is running should be adjusted so that the mirror looks uniform.  
 
 #### Face Recognition
-For the face regnition part, we can use the OpenCV library to identify the face part of the picture. Then we need to create neural network to identify the face from the given set of baseline-photos. The user can provide theses photos using an USB storage device with proper organisation of photos. This program must provide the user-interface program with a name or it should give an error message.
+For the face regnition part, we can use the OpenCV library to identify the face part of the picture. Then we need to create neural network to i
+
+dentify the face from the given set of baseline-photos. The user can provide theses photos using an USB storage device with proper organisation of photos. This program must provide the user-interface program with a name or it should give an error message.
 
 Extra Addition: We need to implement an Android/iOS application for the user to add photos and to transfer them to Raspberry Pi device using Bluetooth connection.  
 
