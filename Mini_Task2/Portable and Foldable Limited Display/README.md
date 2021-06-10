@@ -9,11 +9,13 @@ This display can be created by using WS2812B strips connected to a ESP8266 micro
 Basics connection of a WS2812B strip:  
 ![Screenshot from 2021-06-10 09-50-33](https://user-images.githubusercontent.com/84671311/121464487-93cd8680-c9d1-11eb-843f-916e832d2361.png)
 
-For configuring the LEDS, we can use FastLED library.
+### Configuring the LEDS
+
+For configuring the LEDS, we can use FastLED library. This is an example code snippet for a WS2812B with 20 LEDS connected an Arduino at pin 7.  
 ```
 #include <FastLED.h>  
 
-#define LED_PIN     7  
+#define LED_PIN     7 
 #define NUM_LEDS    20  
 
 CRGB leds[NUM_LEDS];  
@@ -48,7 +50,28 @@ void loop() {
   FastLED.show();
   delay(500);
 }
-```
+```  
+
+Here we can control each LED in the strip seperately!  
+We can now configure many number of strips and turn them on/off to our convenience.  
+
+### Receiving data via Bluetooth
+
+We need to establish an serial communication between the bluetooth segment and the microcontrollers. Then we have to configure the mobile application to send data to the bluetooth segment via the bluetooth connection.
+
+## Planning
+
+### Parts of Pipeline
+#### |Part                                                        | Feasibility                                     | Means to improve                         |
+     |------------------------------------------------------------|-------------------------------------------------|------------------------------------------|
+     | Configuring WS2812B LED strips                             | Simple                                          | Cost Reduction is possible               |        | Establishing Bluetooth serial communication channel        | Medium Difficulty                               | Better range/quality modules             |        | Designing an Android application with user interface       | Difficult                                       | -                                        | 
+     | Controlling the microcontrolller using the Android app     | Difficult                                       | Cost reduction, implementing             | 
+     
+## Prototyping Phase
+
+Application designing and establishing proper connection between the microcontroller and the application, will be the major "headaches" during this phase. Working of LED strips can easily be checked. If any one LED isn't properly functional, it can be easily removed and the other parts can be combined.  
+
+
 
 
  
