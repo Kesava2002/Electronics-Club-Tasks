@@ -62,11 +62,15 @@ We need to establish an serial communication between the bluetooth segment and t
 ## Planning
 
 ### Parts of Pipeline
+
 |Part                                                        | Feasibility                                     | Means to improve                         |
 |------------------------------------------------------------|-------------------------------------------------|------------------------------------------|
-| Configuring WS2812B LED strips                             | Simple                                          | Cost Reduction is possible               |        | Establishing Bluetooth serial communication channel        | Medium Difficulty                               | Better range/quality modules             |        | Designing an Android application with user interface       | Difficult                                       | -                                        | 
+| Configuring WS2812B LED strips                             | Simple                                          | Cost Reduction is possible               |
+| Establishing Bluetooth serial communication channel        | Medium Difficulty                               | Better range/quality modules             | 
+| Designing an Android application with user interface       | Difficult                                       | -                                        | 
 | Controlling the microcontrolller using the Android app     | Difficult                                       | Cost reduction, implementing             | 
      
+
 ## Prototyping Phase
 
 Application designing and establishing proper connection between the microcontroller and the application, will be the major "headaches" during this phase. Working of LED strips can easily be checked. If any one LED isn't properly functional, it can be easily removed and the other parts can be combined.  
