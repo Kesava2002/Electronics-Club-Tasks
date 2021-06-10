@@ -62,10 +62,10 @@ We need to establish an serial communication between the bluetooth segment and t
 ## Planning
 
 ### Parts of Pipeline
-#### |Part                                                        | Feasibility                                     | Means to improve                         |
-     |------------------------------------------------------------|-------------------------------------------------|------------------------------------------|
-     | Configuring WS2812B LED strips                             | Simple                                          | Cost Reduction is possible               |        | Establishing Bluetooth serial communication channel        | Medium Difficulty                               | Better range/quality modules             |        | Designing an Android application with user interface       | Difficult                                       | -                                        | 
-     | Controlling the microcontrolller using the Android app     | Difficult                                       | Cost reduction, implementing             | 
+|Part                                                        | Feasibility                                     | Means to improve                         |
+|------------------------------------------------------------|-------------------------------------------------|------------------------------------------|
+| Configuring WS2812B LED strips                             | Simple                                          | Cost Reduction is possible               |        | Establishing Bluetooth serial communication channel        | Medium Difficulty                               | Better range/quality modules             |        | Designing an Android application with user interface       | Difficult                                       | -                                        | 
+| Controlling the microcontrolller using the Android app     | Difficult                                       | Cost reduction, implementing             | 
      
 ## Prototyping Phase
 
