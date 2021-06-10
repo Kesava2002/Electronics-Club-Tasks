@@ -10,7 +10,7 @@ Basics connection of a WS2812B strip:
 ![Screenshot from 2021-06-10 09-50-33](https://user-images.githubusercontent.com/84671311/121464487-93cd8680-c9d1-11eb-843f-916e832d2361.png)
 
 For configuring the LEDS, we can use FastLED library.
-'''
+'''  
 #include <FastLED.h>  
 
 #define LED_PIN     7  
