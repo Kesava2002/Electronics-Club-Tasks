@@ -10,33 +10,33 @@ Basics connection of a WS2812B strip:
 ![Screenshot from 2021-06-10 09-50-33](https://user-images.githubusercontent.com/84671311/121464487-93cd8680-c9d1-11eb-843f-916e832d2361.png)
 
 For configuring the LEDS, we can use FastLED library.
-''' C++
-#include <FastLED.h>
+'''
+#include <FastLED.h>  
 
-#define LED_PIN     7
-#define NUM_LEDS    20
+#define LED_PIN     7  
+#define NUM_LEDS    20  
 
-CRGB leds[NUM_LEDS];
+CRGB leds[NUM_LEDS];  
 
-void setup() {
+void setup() {  
 
-  FastLED.addLeds<WS2812, LED_PIN, GRB>(leds, NUM_LEDS);
+  FastLED.addLeds<WS2812, LED_PIN, GRB>(leds, NUM_LEDS);  
   
-}
+}  
 
-void loop() {
+void loop() {  
   
-  leds[0] = CRGB(255, 0, 0);
-  FastLED.show();
+  leds[0] = CRGB(255, 0, 0);  
+  FastLED.show();  
+  delay(500);    
+  leds[1] = CRGB(0, 255, 0);  
+  FastLED.show();  
   delay(500);  
-  leds[1] = CRGB(0, 255, 0);
-  FastLED.show();
-  delay(500);
-  leds[2] = CRGB(0, 0, 255);
-  FastLED.show();
-  delay(500);
-  leds[5] = CRGB(150, 0, 255);
-  FastLED.show();
+  leds[2] = CRGB(0, 0, 255);  
+  FastLED.show();  
+  delay(500);  
+  leds[5] = CRGB(150, 0, 255);  
+  FastLED.show();  
   delay(500);
   leds[9] = CRGB(255, 200, 20);
   FastLED.show();
